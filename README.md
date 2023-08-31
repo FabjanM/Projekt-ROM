@@ -9,4 +9,4 @@ Poskušal ugotoviti ali povprečna bruto plača narašča ali pada čez leta.
 Posnetek predstavitve
 https://www.youtube.com/watch?v=-7QPv5miQsg
 
-@ Marko Fabjan
+@Marko Fabjan
