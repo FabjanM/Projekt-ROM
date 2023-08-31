@@ -6,7 +6,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram povprečne bruto plače Slo
 1. Pridobil bom podatke za plačo v Slovniji ter podatke za plačo po ostalih državah sveta.
 2. Analiziral nekatere podatke.
 3. Poskušal ugotoviti ali povprečna bruto plača narašča ali pada čez leta.
-4. 
+   
 Posnetek predstavitve:
 
 https://www.youtube.com/watch?v=-7QPv5miQsg
